@@ -90,7 +90,6 @@ public class HelloController {
         nowSym = nowSym == 'x' ? 'o' : 'x';
     }
 
-
     @FXML
     void initialize() {
 
