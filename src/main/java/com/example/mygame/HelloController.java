@@ -92,6 +92,7 @@ public class HelloController {
 
     @FXML
     void initialize() {
+
     }
 
 }
